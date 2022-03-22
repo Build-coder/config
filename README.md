@@ -1,2 +1,2 @@
-# config
+# config-lex
 demo for class
